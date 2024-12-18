@@ -1,7 +1,5 @@
 # PredictorX
 
-# PredictorX
-
 **PredictorX** is a machine learning-based project that analyzes bearing design parameters for benchmarking purposes in the manufacturing industry. It utilizes the **Random Forest Regressor** to predict bearing characteristics based on key design specifications.
 
 ## Project Overview
